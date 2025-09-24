@@ -1,0 +1,51 @@
+{
+  "workbench.colorTheme": "Atom One Dark",
+  "editor.fontFamily": "JetBrainsMono Nerd Font Mono,Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontWeight": "300",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "workbench.colorCustomizations": {
+    //https://glitchbone.github.io/vscode-base16-term/#/gruvbox-dark-soft
+    "terminal.background": "#35364d"
+  },
+  "terminal.integrated.fontSize": 16,
+  "files.autoSave": "onFocusChange",
+  "notebook.formatOnSave.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "git.autofetch": true,
+  "errorLens.enabledDiagnosticLevels": [
+    "hint"
+  ],
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "conventionalCommits.autoCommit": false,
+  "window.titleBarStyle": "custom",
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  "makefile.configureOnOpen": true,
+  "explorer.confirmPasteNative": false,
+  "explorer.confirmDragAndDrop": false,
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "git.openRepositoryInParentFolders": "always",
+  "svelte.enable-ts-plugin": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "github.copilot.enable": {
+    "*": true,
+    "plaintext": false,
+    "markdown": true,
+    "scminput": true
+  }
+}
