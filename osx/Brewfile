@@ -1,0 +1,34 @@
+# terminal
+cask "ghostty"
+# crossh-shell prompt
+brew "starship"
+# zsh plugins
+brew "mcfly"
+
+# per mouse settings 
+cask "linearmouse"
+
+# windows like alt-tab
+cask "alt-tab"
+
+# preview windows with mouse hover
+cask "dockdoor" 
+
+# window management
+cask "rectangle" 
+
+# display system stats in menu bar
+cask "stats"
+
+# toolbar management
+cask "jordanbaird-ice"
+
+# API tool
+cask "bruno"
+
+# database tool
+cask "dbeaver-community"
+
+# other apps
+cask "spotify"
+cask "chatgpt"
