@@ -37,7 +37,6 @@ cask "gpg-suite"
 
 # aldente to help with battery health
 cask "aldente"
-
 # Ensure to use latest bash version
 brew "bash"
 
@@ -60,6 +59,7 @@ brew "sops"
 brew "tfenv"
 brew "tflint"
 brew "tofuenv"
+brew "uv"
 
 # other apps
 cask "spotify"
