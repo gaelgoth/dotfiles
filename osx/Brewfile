@@ -35,8 +35,12 @@ cask "podman-desktop"
 # GPG tools
 cask "gpg-suite"
 
+# aldente to help with battery health
+cask "aldente"
+
 # Ensure to use latest bash version
 brew "bash"
+
 
 # platform tools
 # brew "awscli" - no needed for now
