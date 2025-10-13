@@ -5,17 +5,17 @@ brew "starship"
 # zsh plugins
 brew "mcfly"
 
-# per mouse settings 
+# per mouse settings
 cask "linearmouse"
 
 # windows like alt-tab
 cask "alt-tab"
 
 # preview windows with mouse hover
-cask "dockdoor" 
+cask "dockdoor"
 
 # window management
-cask "rectangle" 
+cask "rectangle"
 
 # display system stats in menu bar
 cask "stats"
@@ -29,6 +29,36 @@ cask "bruno"
 # database tool
 cask "dbeaver-community"
 
+# container management
+cask "podman-desktop"
+
+# GPG tools
+cask "gpg-suite"
+
+# Ensure to use latest bash version
+brew "bash"
+
+# platform tools
+# brew "awscli" - no needed for now
+brew "age"
+brew "argo"
+brew "azure-cli"
+brew "direnv"
+brew "flux"
+brew "gitleaks"
+brew "k9s"
+brew "kubernetes-cli"
+brew "libpq" # for psql
+brew "nvm"
+brew "openshift-cli"
+brew "pre-commit"
+brew "sops"
+brew "tfenv"
+brew "tflint"
+brew "tofuenv"
+
 # other apps
 cask "spotify"
 cask "chatgpt"
+cask "claude"
+cask "discord"
