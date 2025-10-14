@@ -40,6 +40,10 @@ cask "gpg-suite"
 
 # aldente to help with battery health
 cask "aldente"
+
+# Clean uninstall of apps
+cask "appcleaner"
+
 # Ensure to use latest bash version
 brew "bash"
 
