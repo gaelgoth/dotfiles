@@ -44,9 +44,11 @@ cask "aldente"
 # Clean uninstall of apps
 cask "appcleaner"
 
+# screenshot tool
+cask "shottr"
+
 # Ensure to use latest bash version
 brew "bash"
-
 
 # platform tools
 # brew "awscli" - no needed for now
@@ -58,10 +60,12 @@ brew "flux"
 brew "gitleaks"
 brew "k9s"
 brew "kubernetes-cli"
+brew "kustomize"
 brew "libpq" # for psql
 brew "nvm"
 brew "openshift-cli"
 brew "pre-commit"
+brew "python"
 brew "sops"
 brew "tfenv"
 brew "tflint"
