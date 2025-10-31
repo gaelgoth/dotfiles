@@ -5,8 +5,9 @@ brew "starship"
 # zsh plugins
 brew "mcfly"
 
-# browser
+# browsers
 cask "zen"
+cask "arc"
 
 # per mouse settings
 cask "linearmouse"
