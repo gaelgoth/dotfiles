@@ -54,6 +54,8 @@ cask "imageoptim"
 # Run AI models locally
 cask "ollama-app"
 
+
+
 # Ensure to use latest bash version
 brew "bash"
 
@@ -78,6 +80,7 @@ brew "tfenv"
 brew "tflint"
 brew "tofuenv"
 brew "uv"
+brew "openjdk"
 tap "fluxcd/tap"
 
 # other apps
