@@ -87,3 +87,5 @@ tap "fluxcd/tap"
 cask "spotify"
 cask "chatgpt"
 cask "claude"
+# Disk utilisation visualiser
+cask "qdirstat"
