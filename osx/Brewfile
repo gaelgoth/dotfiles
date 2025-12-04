@@ -54,10 +54,14 @@ cask "imageoptim"
 # Run AI models locally
 cask "ollama-app"
 
-
+# disk visualizer
+cask "daisydisk"
 
 # Ensure to use latest bash version
 brew "bash"
+
+# brew ncdu
+brew "ncdu"
 
 # platform tools
 # brew "awscli" - no needed for now
@@ -81,7 +85,9 @@ brew "tflint"
 brew "tofuenv"
 brew "uv"
 brew "openjdk"
+brew "fzf"
 tap "fluxcd/tap"
+brew "schemathesis"
 
 # other apps
 cask "spotify"
