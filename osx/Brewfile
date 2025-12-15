@@ -93,5 +93,3 @@ brew "schemathesis"
 cask "spotify"
 cask "chatgpt"
 cask "claude"
-# Disk utilisation visualiser
-cask "qdirstat"
