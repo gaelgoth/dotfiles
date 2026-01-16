@@ -57,6 +57,9 @@ cask "ollama-app"
 # disk visualizer
 cask "daisydisk"
 
+# VPN
+cask "tailscale-app"
+
 # Ensure to use latest bash version
 brew "bash"
 
@@ -88,6 +91,12 @@ brew "openjdk"
 brew "fzf"
 tap "fluxcd/tap"
 brew "schemathesis"
+
+# Open Code
+tap "anomalyco/tap"
+brew "anomalyco/tap/opencode"
+cask "opencode-desktop"
+
 
 # other apps
 cask "spotify"
