@@ -91,6 +91,8 @@ brew "openjdk"
 brew "fzf"
 tap "fluxcd/tap"
 brew "schemathesis"
+brew "redis"
+brew "valkey"
 
 # Open Code
 tap "anomalyco/tap"
