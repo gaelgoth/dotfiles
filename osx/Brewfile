@@ -60,11 +60,17 @@ cask "daisydisk"
 # VPN
 cask "tailscale-app"
 
+# password manager
+cask "bitwarden"
+
 # Ensure to use latest bash version
 brew "bash"
 
 # brew ncdu
 brew "ncdu"
+
+# zed editor
+cask "zed"
 
 # platform tools
 # brew "awscli" - no needed for now
@@ -91,8 +97,11 @@ brew "openjdk"
 brew "fzf"
 tap "fluxcd/tap"
 brew "schemathesis"
-brew "redis"
+# brew "redis"
 brew "valkey"
+
+# firefox
+cask "firefox"
 
 # Open Code
 tap "anomalyco/tap"
