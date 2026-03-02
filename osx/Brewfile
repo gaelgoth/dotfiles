@@ -51,9 +51,6 @@ cask "shottr"
 # image compression tool
 cask "imageoptim"
 
-# Run AI models locally
-cask "ollama-app"
-
 # disk visualizer
 cask "daisydisk"
 
@@ -109,6 +106,9 @@ tap "anomalyco/tap"
 brew "anomalyco/tap/opencode"
 cask "opencode-desktop"
 
+# AI tools
+brew "llmfit"
+cask "ollama-app"
 
 # other apps
 cask "spotify"
