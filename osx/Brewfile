@@ -98,6 +98,7 @@ tap "fluxcd/tap"
 brew "schemathesis"
 # brew "redis"
 brew "valkey"
+brew "worktrunk"
 
 # firefox
 cask "firefox"
