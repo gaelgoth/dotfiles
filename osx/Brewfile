@@ -115,5 +115,8 @@ cask "ollama-app"
 # other apps
 cask "spotify"
 cask "chatgpt"
+
+# A.I tools
 cask "claude"
 cask "claude-code"
+cask "copilot-cli"
