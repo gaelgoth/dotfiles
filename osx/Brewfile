@@ -99,6 +99,8 @@ brew "schemathesis"
 # brew "redis"
 brew "valkey"
 brew "worktrunk"
+brew "golangci-lint"
+brew "mkdocs"
 
 # firefox
 cask "firefox"
@@ -111,6 +113,9 @@ cask "opencode-desktop"
 # AI tools
 brew "llmfit"
 cask "ollama-app"
+
+# Cleaning tools
+cask "puremac"
 
 # other apps
 cask "spotify"
