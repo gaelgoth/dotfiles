@@ -101,7 +101,7 @@ brew "valkey"
 brew "worktrunk"
 brew "golangci-lint"
 brew "mkdocs"
-
+brew "step"
 # firefox
 cask "firefox"
 
