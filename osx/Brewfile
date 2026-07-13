@@ -124,6 +124,7 @@ cask "chatgpt"
 # A.I tools
 cask "claude"
 cask "claude-code"
+cask "copilot-cli"
 brew "ccusage"
 brew "rtk"
 brew "herdr"
