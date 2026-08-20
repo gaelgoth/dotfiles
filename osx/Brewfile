@@ -25,7 +25,7 @@ cask "rectangle"
 cask "stats"
 
 # toolbar management
-cask "jordanbaird-ice"
+cask "thaw"
 
 # API tool
 cask "bruno"
@@ -120,6 +120,7 @@ cask "puremac"
 # other apps
 cask "spotify"
 cask "chatgpt"
+cask "google-chrome"
 
 # A.I tools
 cask "claude"
@@ -128,3 +129,5 @@ cask "copilot-cli"
 brew "ccusage"
 brew "rtk"
 brew "herdr"
+
+cask "displaylink"
