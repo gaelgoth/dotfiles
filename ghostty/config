@@ -1,13 +1,15 @@
 window-height = 30
 window-width = 110
+background-opacity = 0.90
 
+font-family = "JetBrainsMonoNL Nerd Font Mono"
 font-size = 15
 font-feature = -liga
 font-thicken = true
 
 theme = Catppuccin Frappe
 
-working-directory = /Users/gael/workspace
+window-save-state = always
 shell-integration-features = ssh-env
 
 copy-on-select = clipboard
