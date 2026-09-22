@@ -80,6 +80,7 @@ brew "fzf"
 brew "gitleaks"
 brew "helm"
 brew "k9s"
+brew "nklmilojevic/sofka/sofka"
 brew "kubernetes-cli"
 brew "kustomize"
 brew "libpq" # for psql
@@ -104,7 +105,8 @@ brew "mkdocs"
 brew "step"
 # firefox
 cask "firefox"
-
+# GitHub CLI
+brew "gh"
 # Open Code
 tap "anomalyco/tap"
 brew "anomalyco/tap/opencode"
@@ -113,6 +115,7 @@ cask "opencode-desktop"
 # AI tools
 brew "llmfit"
 cask "ollama-app"
+cask "hermes-desktop"
 
 # Cleaning tools
 cask "puremac"
